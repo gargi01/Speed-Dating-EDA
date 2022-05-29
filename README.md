@@ -1,4 +1,4 @@
-# Exploratory Data Analysis for finding patterns and drawing insights in Speed Dating <br>
+# Exploratory Data Analysis with Speed Dating <br>
 ### Objective: <br>
 To conduct Multivariate Analysis of Speed Dating data. The purpose is to find patterns and draw insights on some of the ideas like which attributes are the most important for people in order to say "Yes" to a second date, how do people who receive more "Yes" differ from the ones who do not receive so many, is there any difference between the genders on which attributes are important for them, does interest_correlation play an important role in deciding Matches etc.
 ### Dataset: http://www.stat.columbia.edu/~gelman/arm/examples/speed.dating/ <br>
